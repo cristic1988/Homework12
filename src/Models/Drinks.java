@@ -1,6 +1,6 @@
-public enum DrinksMachine {
-    COFFEE, TEA, LEMONADE, MOCHITO, MINERAL_WATER, COCA_COLA;
-}
+package Models;
+
+import helper.DrinksMachine;
 
 class Drinks {
     public static final double COFFEE_PRICE = 2.0;

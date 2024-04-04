@@ -1,3 +1,8 @@
+package Models;
+
+import Models.Drinks;
+import helper.DrinksMachine;
+
 import java.util.Scanner;
 
 public class VendingMachineWithDrinks {
